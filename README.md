@@ -12,7 +12,7 @@ This analysis is focused on accidents involving bicycles as well as animals. Fur
 DATA
 ==========================================================================================
 
-Furthermore the data folder contains all the data required for the analysis. It is including
+The data folder contains all the data required for the analysis. It is including
 the main csv-file "RoadTrafficAccidentLocations.csv" from the Bundesamt für Strassen
 ASTRA. Furthermore the excel-file "PopulationCH.xlsx" containing the population
 information for each canton of Switzerland. The excel-file "Axa.xslx" is a fictive 
